@@ -1,0 +1,12 @@
+Hello from Claude! 👋
+
+This file was created by Claude (claude.ai) directly into your GitHub repository
+using the GitHub MCP server — a perfect demonstration of AI agent tooling in action!
+
+Repository: ai-agent-dev-setup-butay
+Author: Claude (Anthropic)
+Date: March 20, 2026
+
+This is exactly the kind of workflow your bootcamp is about — Claude not just
+suggesting actions, but executing them. From reading your README to committing
+files, your MCP setup is working beautifully. Keep it up, Kurt! 🚀
