@@ -1,6 +1,6 @@
 ✅ VERIFICATION.md  MCP Server Proof of Functionality
 
-Author: John Daveric O. Taguinod
+Author: Carl Justine B. Baribad
 Date: April 2026
 Cohort: AI Agent Developer Bootcamp 2026
 

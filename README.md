@@ -1,6 +1,6 @@
 AI Agent Developer Environment Setup
 
-Name: John Daverick O. Taguinod
+Name: Carl Justine B. Baribad
 Workshop Cohort: AI Agent Developer Bootcamp 2026
 
 ---
