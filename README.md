@@ -8,7 +8,7 @@ Workshop Cohort: AI Agent Developer Bootcamp 2026
 Development Environment Checklist
 
 ✅Node.js Installed
-![alt text](image.png)
+![alt text](image_.png)
 
 Steps taken:
 - Downloaded Node.js LTS from https://nodejs.org
@@ -17,7 +17,7 @@ Steps taken:
 ---
 
 ✅ Git Installed
-![alt text](image-1.png)
+![alt text](image_1.png)
 
 Steps taken:
 - Installed Git from https://git-scm.com
@@ -26,7 +26,7 @@ Steps taken:
 ---
 
 ✅ VS Code Insiders Running with GitHub Copilot Enabled
-![alt text](image-2.png)
+![alt text](image_2.png)
 
 Steps taken:
 - Downloaded VS Code Insiders from https://code.visualstudio.com/insiders/
@@ -36,7 +36,7 @@ Steps taken:
 ---
 
 ✅ Claude Desktop Open with All 4 MCP Servers Connected
-![alt text](image-3.png)
+![alt text](image_3.png)
 
 Steps taken:
 - Configured `claude-desktop-config.json` with all 4 MCP server entries (see `/mcp-configs/`)

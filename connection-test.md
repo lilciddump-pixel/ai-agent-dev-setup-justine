@@ -1,6 +1,6 @@
  🧪 MCP Connection Tests Evidence Log
 
-Author: John Daverick O. Taguinod
+Author: Carl Justine B. Baribad
 Date: April 2026
 Cohort: AI Agent Developer Bootcamp 2026
 
@@ -21,7 +21,7 @@ Expected Behavior
 Claude invokes the `roll_dice` tool and returns 4 dice values from the server.
 
 Actual Result
-![alt text](image-8.png)
+![alt text](image_8.png)
 
 ✅ PASS
 
@@ -38,9 +38,9 @@ Expected Behavior
 Each prompt triggers a distinct tool call. List updates correctly after completion.
 
 Actual Result
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
+![alt text](image_9.png)
+![alt text](image_10.png)
+![alt text](image_11.png)
 
 ✅ PASS
 
@@ -56,8 +56,8 @@ Expected Behavior
 Returns real calendar data and creates a verifiable event in Google Calendar.
 
 Actual Result
-![alt text](image-12.png)
-![alt text](image-13.png)
+![alt text](image_12.png)
+![alt text](image_13.png)
 
 ✅ PASS
 
@@ -73,8 +73,8 @@ Expected Behavior
 README contents are fetched and displayed. New file appears on GitHub.com.
 
 Actual Result
-![alt text](image-17.png)
-![alt text](image-18.png)
+![alt text](image_17.png)
+![alt text](image_18.png)
 
 ✅ PASS
 
